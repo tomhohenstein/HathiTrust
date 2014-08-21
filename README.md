@@ -8,7 +8,7 @@ The two files:
 * HathiTrustAnnualReportPhysicalTitles.ipynb
 * HathiTrustAnnualReportPhysicalTitles.py
 
-perform the same operations. The first is an ipython notebook file, my primary development platform. The second is simply an export of the code in a standard python notebook.
+perform the same operations. The first is an ipython notebook file, my primary development platform. The second is simply an export of the code in a standard python '*.py' file.
 
 These were developed in a python 2.7 environment.
 
