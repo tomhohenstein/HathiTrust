@@ -6,8 +6,8 @@
 ##
 ## Create HathiTrust Annual Reports of Physical Titles
 ## J Ammmerman
-## August, 2014
-## v. 1.0
+## August 27, 2014
+## v. 1.2
 ##
 ## 
 
@@ -315,4 +315,19 @@ print 'Time: ' , str(duration.seconds) , 'seconds'
 # In[2]:
 
 oclc_dict
+
+
+# In[6]:
+
+vols[0]
+
+
+# In[7]:
+
+type(vol)
+
+
+# In[ ]:
+
+
 
