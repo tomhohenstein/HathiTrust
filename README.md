@@ -16,6 +16,6 @@ The script assumes the presence of binary marc files with the file extension "*.
 
 The script runs without error in my environment, but has not been thoroughly tested. I could probably benefit from additional error and exception handling.
 
-
+Here is my edit 
 
 
